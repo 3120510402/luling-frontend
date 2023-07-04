@@ -27,4 +27,4 @@ yarn start
 
 
 ## Dokumentasi
-Berikut merupakan file dokumentasi dari [DOKUMENTASI_APP.pdf](aplikasi ini )
+Berikut merupakan file dokumentasi dari [aplikasi ini](DOKUMENTASI_APP.pdf)
