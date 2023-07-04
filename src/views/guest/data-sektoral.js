@@ -1,0 +1,6 @@
+const DataSektoral = async () => {
+    return (
+        <>
+        </>
+    );
+}
